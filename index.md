@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Nolyn Whitaker
+description:  A GitHub page created to display analytics work samples
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
