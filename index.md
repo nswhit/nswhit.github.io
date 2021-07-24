@@ -1,7 +1,5 @@
 ---
-title: Nolyn Whitaker
 
-description: A GitHub page created to display analytics work samples
 ---
 
 ![Analytics](images/pexels-timur-saglambilek-185576.jpg)
