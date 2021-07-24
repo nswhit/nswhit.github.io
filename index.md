@@ -6,7 +6,7 @@
 
 # Click Here for Samples of My Work!
 
-[Work Samples](nswhit.github.io/samples)
+[Work Samples](nswhit.github.io/samples/index.md)
 
 The link above contains samples of analytics projects that I've completed.
 
