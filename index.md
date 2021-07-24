@@ -1,14 +1,16 @@
 ---
 title: Nolyn Whitaker
-description:  A GitHub page created to display analytics work samples
+
+description: A GitHub page created to display analytics work samples
 ---
 
-[Work Samples](nswhit.github.io/samples).
-![Analytics]()
+![Analytics](images/pexels-timur-saglambilek-185576.jpg)
 
-# Header 1
+# Click Here for Samples of My Work!
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[Work Samples](nswhit.github.io/samples)
+
+The link above contains samples of analytics projects that I've completed.
 
 ## Header 2
 
