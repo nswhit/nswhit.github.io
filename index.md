@@ -11,7 +11,3 @@
 The link above contains samples of analytics projects that I've completed.
 
 
-
-```
-The final element.
-```
