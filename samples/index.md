@@ -6,7 +6,7 @@
 
 # Samples of my work:
 
-- [Jupyter Notebook HTML file]()
+- [Jupyter Notebook HTML file](samples/WorkSample1.html)
 - [Jupyter Notebook Downloadable file]()
 
 ## For more samples of my work, please visit my sample repository!
