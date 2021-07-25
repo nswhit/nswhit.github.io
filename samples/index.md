@@ -9,5 +9,8 @@
 - [Jupyter Notebook HTML file]()
 - [Jupyter Notebook Downloadable file]()
 
-## Click here to return to the main page:
+## For more samples of my work, please visit my sample repository!
+[Sample Repository](https://github.com/nswhit/nswhit.github.io/tree/main/samples)
+
+### Click here to return to the main page:
 [GitHub Landing Page](https://nswhit.github.io/)
